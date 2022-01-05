@@ -63,6 +63,8 @@ function init_config()
             { "molten.polybenzimidazole", "Molten Polybenzimidazole",                    18432, 144, "gregtech:gt.metaitem.01",      17599,  "Polybenzimidazole Plate" },
             { "molten.sunnarium",       "Molten Sunnarium",                              18432, 144, "gregtech:gt.metaitem.01",      11318,  "Sunnarium Ingot" },
             { "molten.platinum",        "Molten Platinum",                               18432, 144, "gregtech:gt.metaitem.01",      11085,  "Platinum Ingot" },
+            { "molten.tritanium",       "Molten Tritanium",                              7200,  144, "gregtech:gt.metaitem.01",      11329,  "Tritanium Ingot" },
+            { "molten.titanium",        "Molten Titanium",                               18432, 144, "gregtech:gt.metaitem.01",      11028,  "Titanium Ingot" },
             --{ "molten.",        "Molten ",         18432, 144, "gregtech:gt.metaitem.01",      ,  " Ingot" },
             { "molten.pikyonium64b",    "Molten Pikyonium 64B",                          18432, 144, "miscutils:itemIngotPikyonium64B", 0,   "Pikyonium 64B Ingot" },
             { "molten.potin",           "Molten Potin",                                  18432, 144, "miscutils:itemIngotPotin",     0,      "Potin Ingot" },
