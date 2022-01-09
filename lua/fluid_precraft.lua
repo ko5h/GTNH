@@ -66,6 +66,7 @@ function init_config()
             { "molten.tritanium",       "Molten Tritanium",                              7200,  144, "gregtech:gt.metaitem.01",      11329,  "Tritanium Ingot" },
             { "molten.titanium",        "Molten Titanium",                               18432, 144, "gregtech:gt.metaitem.01",      11028,  "Titanium Ingot" },
             --{ "molten.",        "Molten ",         18432, 144, "gregtech:gt.metaitem.01",      ,  " Ingot" },
+            { "molten.rhodium-plated palladium", "Molten Rhodium-Plated Palladium",      7200,  144, "bartworks:gt.bwMetaGeneratedingot", 88, "Rhodium-Plated Palladium Ingot" },
             { "molten.pikyonium64b",    "Molten Pikyonium 64B",                          18432, 144, "miscutils:itemIngotPikyonium64B",  0,   "Pikyonium 64B Ingot" },
             { "molten.potin",           "Molten Potin",                                  18432, 144, "miscutils:itemIngotPotin",         0,      "Potin Ingot" },
             { "molten.lafiumcompound",  "Molten Lafium Compound",                        7200,  144, "miscutils:itemIngotLafiumCompound", 0,  "Lafium Compound Ingot" },
