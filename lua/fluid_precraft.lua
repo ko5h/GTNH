@@ -71,6 +71,7 @@ function init_config()
             { "molten.potin",           "Molten Potin",                                  18432, 144, "miscutils:itemIngotPotin",         0,      "Potin Ingot" },
             { "molten.lafiumcompound",  "Molten Lafium Compound",                        7200,  144, "miscutils:itemIngotLafiumCompound", 0,  "Lafium Compound Ingot" },
             { "molten.triniumnaquadahcarbonite",    "Molten Trinium Naquadah Carbonite", 18432, 144, "miscutils:itemIngotTriniumNaquadahCarbonite", 0,"Trinium Naquadah Alloy Carbonite" },
+            { "molten.stellite",        "Molten Stellite",                               18432, 144, "miscutils:itemIngotStellite",  0,      "Stellite Ingot" },
             { "ender",                  "Liquid Ender",                                  20000, 250, "minecraft:ender_pearl",        0,      "Ender Pearl" },
             { "obsidian.molten",        "Molten Obsidian",                               18432, 288, "minecraft:obsidian",           0,      "Obsidian" },
             { "molten.arcanite",        "Molten Arcanite",                               7200,  144, "miscutils:itemIngotArcanite",  0,      "Arcanite Ingot" },
