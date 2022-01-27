@@ -72,6 +72,7 @@ function init_config()
             { "molten.lafiumcompound",  "Molten Lafium Compound",                        7200,  144, "miscutils:itemIngotLafiumCompound", 0,  "Lafium Compound Ingot" },
             { "molten.triniumnaquadahcarbonite",    "Molten Trinium Naquadah Carbonite", 18432, 144, "miscutils:itemIngotTriniumNaquadahCarbonite", 0,"Trinium Naquadah Alloy Carbonite" },
             { "molten.stellite",        "Molten Stellite",                               18432, 144, "miscutils:itemIngotStellite",  0,      "Stellite Ingot" },
+            { "molten.energycrystal",   "Molten Energy Crystal",                         18432, 144, "miscutils:itemIngotEnergyCrystal",  0, "Energy Crystal Ingot" },
             { "molten.thaumium",        "Molten Thaumium",                               18432, 144, "Thaumcraft:ItemResource",      2,      "Thaumium Ingot" },
             { "reinforcedglass",        "Molten Reinforced Glass",                       18432, 144, "IC2:blockAlloyGlass",          0,      "Reinforced Glass" },
             { "ender",                  "Liquid Ender",                                  20000, 250, "minecraft:ender_pearl",        0,      "Ender Pearl" },
