@@ -78,6 +78,7 @@ function init_config()
             { "molten.energycrystal",   "Molten Energy Crystal",                         18432, 144, "miscutils:itemIngotEnergyCrystal", 0,  "Energy Crystal Ingot" },
             { "molten.tumbaga",         "Molten Tumbaga",                                18432, 144, "miscutils:itemIngotTumbaga",   0,      "Tumbaga Ingot" },
             { "molten.nitinol60",       "Molten Nitinol 60",                             18432, 144, "miscutils:itemIngotNitinol60", 0,      "Nitinol 60 Ingot" },
+            { "molten.eglinsteel",      "Molten Eglin Steel",                            18432, 144, "miscutils:itemIngotEglinSteel", 0,     "Eglin Steel Ingot" },
             { "molten.thaumium",        "Molten Thaumium",                               18432, 144, "Thaumcraft:ItemResource",      2,      "Thaumium Ingot" },
             { "reinforcedglass",        "Molten Reinforced Glass",                       18432, 144, "IC2:blockAlloyGlass",          0,      "Reinforced Glass" },
             { "ender",                  "Liquid Ender",                                  20000, 250, "minecraft:ender_pearl",        0,      "Ender Pearl" },
