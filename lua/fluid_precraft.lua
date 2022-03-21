@@ -68,6 +68,7 @@ function init_config()
             { "molten.naquadria",       "Molten Naquadria",                              18432, 144, "gregtech:gt.metaitem.01",      11327,  "Naquadria Ingot" },
             { "molten.borosilicateglass", "Molten Borosilicate Glass",                   18432, 144, "gregtech:gt.metaitem.01",      11611,  "Borosilicate Glass Bar" },
             { "molten.neutronium",      "Molten Neutronium",                             18432, 144, "gregtech:gt.metaitem.01",      11129,  "Neutronium Ingot" },
+            { "molten.electrumflux",    "Molten Fluxed Electrum",                        18432, 144, "gregtech:gt.metaitem.01",      11320,  "Fluxed Electrum Ingot" },
             --{ "molten.",        "Molten ",         18432, 144, "gregtech:gt.metaitem.01",      ,  " Ingot" },
             { "molten.rhodium-plated palladium", "Molten Rhodium-Plated Palladium",      7200,  144, "bartworks:gt.bwMetaGeneratedingot", 88, "Rhodium-Plated Palladium Ingot" },
             { "molten.pikyonium64b",    "Molten Pikyonium 64B",                          18432, 144, "miscutils:itemIngotPikyonium64B", 0,   "Pikyonium 64B Ingot" },
